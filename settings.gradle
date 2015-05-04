@@ -1,0 +1,1 @@
+include ':ndk_demo_1', ':ndk_demo_2', ':ndk_demo_3'
